@@ -6,7 +6,7 @@ using System.Runtime.InteropServices;
 // 控制。更改这些特性值可修改
 // 与程序集关联的信息。
 [assembly: AssemblyTitle("GetCIDbyVN")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("by 福建-兮")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("GetCIDbyVN")]
