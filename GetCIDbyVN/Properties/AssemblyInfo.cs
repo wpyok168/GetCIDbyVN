@@ -7,8 +7,8 @@ using System.Runtime.InteropServices;
 // 与程序集关联的信息。
 [assembly: AssemblyTitle("GetCIDbyVN")]
 [assembly: AssemblyDescription("by 福建-兮")]
-[assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyConfiguration("by 福建-兮 ")]
+[assembly: AssemblyCompany("by 福建-兮 ")]
 [assembly: AssemblyProduct("GetCIDbyVN")]
 [assembly: AssemblyCopyright("by 福建-兮 Copyright ©  2023")]
 [assembly: AssemblyTrademark("")]
